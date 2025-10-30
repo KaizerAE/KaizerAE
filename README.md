@@ -1,7 +1,5 @@
 # Hi there 👋 I'm KaizerAE
-
 ## 🌐 Follow Me / تابعني
-
 <p align="center">
   <a href="https://x.com/KaizerQ5" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
@@ -18,17 +16,21 @@
   <a href="https://open.spotify.com/user/313stcsvs3a6fxkxgpn2n35h2wby?si=MEtmJ8HuSVmRD0UamDZJ-w&nd=1&dlsi=d724a7abf585435f" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
+  <a href="https://s.team/p/hhdt-vrwj/rbrhqttt" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam (Nacht631)" />
+  </a>
 </p>
 
 ---
 
 ### 📫 Connect With Me
-
 - 🐦 **X (Twitter):** [@KaizerQ5](https://x.com/KaizerQ5)
 - 📸 **Instagram:** [@CQIE_](https://www.instagram.com/CQIE_)
 - 🎵 **TikTok:** [@2syh](https://www.tiktok.com/@2syh)
 - 👻 **Snapchat:** [@l70jr](https://www.snapchat.com/@l70jr)
 - 🎧 **Spotify:** [My Profile](https://open.spotify.com/user/313stcsvs3a6fxkxgpn2n35h2wby?si=MEtmJ8HuSVmRD0UamDZJ-w&nd=1&dlsi=d724a7abf585435f)
+- 💬 **Discord:** _1is DISCORD
+- 🎮 **Steam:** [Nacht631](https://s.team/p/hhdt-vrwj/rbrhqttt)
 
 ---
 
