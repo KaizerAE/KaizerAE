@@ -1,156 +1,107 @@
-<!-- Header Banner with Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KaizerAE/KaizerAE/main/assets/banner.gif" alt="KaizerAE Banner" width="100%"/>
-</div>
+<!-- Profile Banner with soft shadow -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KaizerAE/KaizerAE/main/assets/0af76375-9c46-4a0d-bdfc-ea25bcb6e4a6.jpg" alt="Profile Banner" width="100%" style="border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,.35);" />
+</p>
 
-<!-- Professional Logo Section -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KaizerAE/KaizerAE/main/assets/logo.png" alt="KaizerAE Logo" width="200"/>
-  
-  ### 👋 أهلاً وسهلاً | Welcome!
-  **استكشف، تعلم، ابتكر | Explore, Learn, Innovate**
-</div>
+<!-- Name + Logo with gradient -->
+<h1 align="center" style="font-weight:800; letter-spacing:.5px;">
+  <img src="https://raw.githubusercontent.com/KaizerAE/KaizerAE/main/assets/logo.png" alt="Logo" width="42" style="vertical-align:middle; margin-right:10px;"/>
+  <span style="background:linear-gradient(90deg,#2F80ED,#F2994A); -webkit-background-clip:text; background-clip:text; color:transparent;">KaizerAE</span>
+</h1>
 
----
+<!-- Typing SVG (bilingual) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%D9%88%D8%B3%D9%87%D9%84%D8%A7%D9%8B+%F0%9F%91%8B+%7C+ابد%D8%B9%D8%8C+ت%D8%B9%D9%84%D9%85%D8%8C+%D8%A7%D8%A8%D8%AA%D9%83%D8%B1!;Welcome+%F0%9F%8C%9F+%7C+Explore%2C+Learn%2C+Innovate!" alt="Typing SVG"/>
+</p>
 
-<!-- About Me Section -->
-## 🚀 عني | About Me
+<!-- Social icons row with gradient hover -->
+<p align="center">
+  <a href="https://github.com/KaizerAE" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" title="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="32" alt="X (Twitter)" title="X" />
+  </a>
+  <a href="mailto:example@example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email" title="Email" />
+  </a>
+</p>
 
-<div dir="rtl" align="right">
-  <ul>
-    <li>🎓 طالب هندسة كهربائية وإلكترونيات، متخصص في الروبوتات والذكاء الاصطناعي</li>
-    <li>💻 مبرمج شغوف بتطوير حلول مبتكرة</li>
-    <li>🤖 مهتم بالروبوتات، الذكاء الاصطناعي، والأتمتة</li>
-    <li>🌱 أتعلم حالياً: تعلم الآلة وتطوير الويب المتقدم</li>
-    <li>🎯 هدفي: بناء مشاريع تقنية تخدم المجتمع</li>
-  </ul>
-</div>
+<!-- About with circular avatar and glow border -->
+<h2 align="center">🚀 عني | About Me</h2>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="108" style="border-radius:50%; box-shadow:0 0 0 3px #0D1117, 0 0 24px rgba(88,166,255,.55);" alt="Profile"/>
+</p>
 
-<div align="left">
-  <ul>
-    <li>🎓 Electrical & Electronics Engineering student specializing in Robotics & AI</li>
-    <li>💻 Passionate programmer developing innovative solutions</li>
-    <li>🤖 Interested in Robotics, AI, and Automation</li>
-    <li>🌱 Currently learning: Machine Learning and Advanced Web Development</li>
-    <li>🎯 Goal: Build tech projects that serve the community</li>
-  </ul>
-</div>
+<p dir="rtl" align="center">
+  طالب هندسة كهربائية وإلكترونيات مُهتم بالروبوتات والذكاء الاصطناعي. أؤمن بأن الإبداع يولد من الشغف + الانضباط.
+</p>
+<p align="center">
+  Electrical & Electronics engineering student focused on Robotics and AI. Building useful, elegant tech.
+</p>
 
----
+<!-- Section divider -->
+<h3 align="center">🌐 — — — — — — — — — — — 🚀</h3>
 
-<!-- Skills Section -->
-## 🛠️ المهارات التقنية | Technical Skills
+<!-- Skills with skillicons and subtle gradient -->
+<h2 align="center">🛠️ المهارات والتقنيات | Skills</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,html,css,nodejs,react,opencv,tensorflow,numpy,arduino,raspberrypi,git,github,linux,vscode&perline=9" />
+</p>
 
-<div align="center">
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KaizerAE&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophies" />
+</p>
 
-### 💻 لغات البرمجة | Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Divider -->
+<h3 align="center">🚀 — — — — — — — — — — — 📊</h3>
 
-### ⚙️ الأدوات والتقنيات | Tools & Technologies
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<!-- Project Cards -->
+<h2 align="center">⭐ أحدث المشاريع | Featured Projects</h2>
 
-### 📚 المكتبات والأطر | Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/KaizerAE/PROJECT_1">
+        <img src="https://img.shields.io/badge/-Open%20Source%20Robot-0D1117?style=for-the-badge&logo=github&logoColor=fff"/>
+      </a>
+      <br/>
+      <sub>وصف موجز: روبوت مفتوح المصدر للتحكم الذكي.</sub>
+    </td>
+    <td>
+      <a href="https://github.com/KaizerAE/PROJECT_2">
+        <img src="https://img.shields.io/badge/-AI%20Vision%20Toolkit-0D1117?style=for-the-badge&logo=opencv&logoColor=white"/>
+      </a>
+      <br/>
+      <sub>أدوات رؤية حاسوبية للتعرف والمعالجة.</sub>
+    </td>
+  </tr>
+</table>
 
-</div>
+<!-- Stats: streak, languages, activity graph -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaizerAE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F2994A" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaizerAE&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F2994A&currStreakLabel=58A6FF" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaizerAE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="130"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaizerAE&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=F2994A&area=true" alt="activity graph"/>
+</p>
 
----
+<!-- Divider -->
+<h3 align="center">📊 — — — — — — — — — — — ⭐</h3>
 
-<!-- GitHub Stats Section -->
-## 📊 إحصائيات GitHub | GitHub Stats
+<!-- Closing message with UAE flag -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=F2994A&center=true&vCenter=true&width=600&lines=%D8%B4%D9%83%D8%B1%D8%A7%D9%8B+%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%83+%D9%88%D9%82%D8%AA%D9%83+%D9%8A%D9%87%D9%85%D9%86%D9%8A+%F0%9F%92%99;Thank+you+for+visiting+%E2%9C%A8" alt="Thanks"/>
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ae.svg" width="28" alt="UAE"/>
+</p>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaizerAE&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/KaizerAE)
-
-[![KaizerAE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaizerAE&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/KaizerAE)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaizerAE&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/KaizerAE)
-
-</div>
-
----
-
-<!-- Featured Projects Section -->
-## 🌟 المشاريع المميزة | Featured Projects
-
-<div align="center">
-
-[![ArabAI-EdTech-Hub](https://github-readme-stats.vercel.app/api/pin/?username=KaizerAE&repo=ArabAI-EdTech-Hub&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/KaizerAE/ArabAI-EdTech-Hub)
-
-[![RoboSketch-Studio](https://github-readme-stats.vercel.app/api/pin/?username=KaizerAE&repo=RoboSketch-Studio&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/KaizerAE/RoboSketch-Studio)
-
-</div>
-
----
-
-<!-- GitHub Achievements -->
-## 🏆 الإنجازات | Achievements
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=KaizerAE&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/KaizerAE)
-
-</div>
-
----
-
-<!-- Activity Graph -->
-## 📈 نشاط المساهمات | Contribution Activity
-
-<div align="center">
-
-[![KaizerAE's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaizerAE&theme=react-dark&hide_border=true&area=true)](https://github.com/KaizerAE)
-
-</div>
-
----
-
-<!-- Connect With Me Section -->
-## 🌐 تواصل معي | Connect With Me
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kaizerae)
-[![YouTube Music Channel](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@2syh)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@2syh)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vq___z)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaizerae1@gmail.com)
-
-</div>
-
----
-
-<!-- Profile Views Counter -->
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=KaizerAE&color=58A6FF&style=for-the-badge&label=زوار+الملف+|+Profile+Views)
-
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-  
-### ✨ "الابتكار يبدأ بفكرة، والفكرة تتحول إلى واقع بالعمل" ✨
-### ✨ "Innovation starts with an idea, and ideas become reality through action" ✨
-
-**شكراً لزيارتك! | Thank you for visiting!** 🚀
-
-</div>
+<!-- Notes: dark theme friendly, layered gradients, clear typography -->
