@@ -1,154 +1,135 @@
-<!-- 🌐 Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=مرحباً%20👋%20Welcome&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
-</div>
+<!-- Profile README: Ultra-Modern Animated Design (GitHub-safe) -->
 
-<br>
-
----
-
-<h1 align="center">🚀</h1>
-
-<h2 align="center"><strong>عني | About Me</strong></h2>
-
-<p dir="rtl" align="center">
-  <strong>طالب هندسة كهربائية وإلكترونيات • مُهتم بالروبوتات والذكاء الاصطناعي</strong><br>
-  أؤمن بأن الإبداع يولد من الشغف + الانضباط
-</p>
-
+<!-- Top Gradient Wave Banner -->
 <p align="center">
-  <strong>Electrical & Electronics Engineering Student</strong><br>
-  Focused on Robotics and AI | Building useful, elegant tech
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B%20%E2%9C%8B%20Welcome&fontSize=50&fontAlignY=38&fontColor=ffffff&animation=twinkling&color=0:0ea5e9,25:22d3ee,50:a78bfa,75:f472b6,100:f97316" alt="Gradient Wave Banner"/>
 </p>
 
-<div align="center">
+<!-- Center Logo / Avatar with Glow (SVG filter + drop shadow fallback) -->
+<p align="center">
   <a href="https://github.com/KaizerAE">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://avatars.githubusercontent.com/u/124137874?v=4" width="150" style="border-radius:50%; box-shadow:0 0 0 6px rgba(255,255,255,.12), 0 20px 40px rgba(0,0,0,.35)" alt="Avatar" />
   </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+</p>
+
+<!-- Animated typing headline (SVG) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=22D3EE&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+%D8%A3%D9%87%D9%84%D8%A7%D9%8B%D8%8C+%D8%A3%D9%86%D8%A7+KaizerAE+%7C+%D9%85%D9%8F%D8%AD%D8%A8+%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA%D8%A7%D8%AA+%D9%88%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1+%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A;Hello+there!+I'm+KaizerAE+%7C+Robotics+%26+AI+Enthusiast;%D9%86%D8%B5%D9%86%D8%B9+%D8%A7%D9%84%D9%81%D8%B1%D9%82+%D8%A8%D8%A7%D9%84%D8%B4%D8%BA%D9%81+%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%B6%D8%A8%D8%A7%D8%B7+%F0%9F%8C%9F;Building+useful%2C+elegant+tech+that+matters+%F0%9F%9A%80" alt="Typing Intro" />
+</p>
+
+<!-- Social icons row (gradient tone + pulse via SVG GIF safe) -->
+<p align="center">
+  <a href="https://github.com/KaizerAE" title="GitHub"><img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/" title="Telegram"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
+
+<!-- Animated divider: gradient bar -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20-%230ea5e9?style=for-the-badge" alt="divider"/>
+</p>
+
+<!-- About card split AR/EN -->
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="right" width="48%">
+
+  <b>عنّي</b>
+  
+  - طالب هندسة كهربائية وإلكترونيات
+  - شغوف بالروبوتات ورؤية الحاسوب
+  - أصنع حلولاً أنيقة ومفيدة
+  - أؤمن أن الشغف + الانضباط = أثر
+
+      </td>
+      <td align="left" width="52%">
+
+  <b>About Me</b>
+  
+  - Electrical & Electronics Engineering student
+  - Passionate about Robotics and Computer Vision
+  - Crafting useful, elegant solutions
+  - Passion + Discipline = Impact
+
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
+<!-- Animated section separator: wave -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22d3ee,50:a78bfa,100:f97316" alt="wave divider"/>
+</p>
 
----
+<!-- Skills grid with skillicons.dev and hover/lift via GIF-safe subtle scale (no CSS, rely on badges) -->
+<h3 align="center">المهارات | Skills</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nodejs,git,linux,arduino,raspberrypi,opencv,tensorflow,vscode&perline=8" alt="Skills" />
+  </a>
+</p>
 
-<h1 align="center">🌐</h1>
+<!-- Projects section: small animated arrow by using unicode + shields cards -->
+<h3 align="center">المشاريع الحديثة | Recent Projects</h3>
 
-<h2 align="center"><strong>المهارات والتقنيات | Skills & Technologies</strong></h2>
-
-<div align="center">
-
-### 💻 لغات البرمجة | Programming Languages
-*أدوات بناء المنطق والحلول*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### 🤖 الذكاء الاصطناعي والروبوتات | AI & Robotics
-*تقنيات الرؤية والتحكم الذكي*
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-
-### 🌐 الويب والأدوات | Web & Development Tools
-*أدوات التطوير والنشر*
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-<br>
-
----
-
-<h1 align="center">⭐</h1>
-
-<h2 align="center"><strong>المشاريع المميزة | Featured Projects</strong></h2>
-
-<div align="center">
-
-<table>
-<thead>
-  <tr>
-    <th align="center"><strong>Project</strong></th>
-    <th align="center"><strong>Description</strong></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/KaizerAE">
-        <img src="https://img.shields.io/badge/🤖_Robotics_Project-0D1117?style=for-the-badge" alt="Robotics"/>
-      </a>
-    </td>
-    <td align="center">
-      <strong>مشروع روبوتات متقدم</strong><br>
-      Advanced Robotics System
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/KaizerAE">
-        <img src="https://img.shields.io/badge/👁️_AI_Vision-0D1117?style=for-the-badge" alt="AI Vision"/>
-      </a>
-    </td>
-    <td align="center">
-      <strong>أدوات الرؤية الحاسوبية</strong><br>
-      Computer Vision Tools
-    </td>
-  </tr>
-</tbody>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Project ↗</th>
+      <th align="center">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/KaizerAE"><img alt="Robotics Project" src="https://img.shields.io/badge/%F0%9F%A4%96_Robotics-0D1117?style=for-the-badge&labelColor=0D1117&color=22d3ee"></a>
+      </td>
+      <td align="left">Advanced robotics stack: control, sensing, and vision modules.</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/KaizerAE"><img alt="CV Toolkit" src="https://img.shields.io/badge/%F0%9F%8E%A8_Computer_Vision-0D1117?style=for-the-badge&labelColor=0D1117&color=a78bfa"></a>
+      </td>
+      <td align="left">Reusable OpenCV utilities and training notebooks.</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/KaizerAE"><img alt="AI Experiments" src="https://img.shields.io/badge/%F0%9F%A4%96_AI_Experiments-0D1117?style=for-the-badge&labelColor=0D1117&color=f472b6"></a>
+      </td>
+      <td align="left">Tiny ML prototypes and model serving demos.</td>
+    </tr>
+  </tbody>
 </table>
 
-</div>
+<!-- Animated separator -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20-%23a78bfa?style=for-the-badge" alt="divider"/>
+</p>
 
-<br>
-
----
-
-<h1 align="center">⚡</h1>
-
-<h2 align="center"><strong>إحصائيات GitHub | GitHub Statistics</strong></h2>
-
+<!-- Stats blocks -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaizerAE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaizerAE&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaizerAE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" height="165" alt="languages"/>
-</div>
-
-<br>
-
----
-
-<h1 align="center">🔥</h1>
-
-<div align="center">
-  <h3><strong>"الإبداع يبدأ بخطوة واحدة، والنجاح يُصنع بالاستمرار"</strong></h3>
-  <p><em>Creativity starts with one step, success is built through persistence</em></p>
   
-  <br>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KaizerAE&show_icons=true&theme=radical&hide_title=false&hide_border=false" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaizerAE&layout=compact&theme=radical&hide_border=false" alt="Top Languages"/>
   
-  <p>🚀 <strong>Keep building • Keep learning • Keep growing</strong> 🚀</p>
 </div>
 
-<br>
+<!-- Animated section separator: emoji wave line (safe) -->
+<p align="center">
+  <span>✨ 🌊 ✨ 🌊 ✨ 🌊 ✨</span>
+</p>
 
----
+<!-- Closing line with UAE flag/glow emoji -->
+<h3 align="center">
+  شكراً لمرورك! — Thank you for stopping by!
+  <br/>
+  🇦🇪💫
+</h3>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-</div>
+<!-- Bottom Wave -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:f97316,25:f472b6,50:a78bfa,75:22d3ee,100:0ea5e9" alt="Footer Wave"/>
+</p>
