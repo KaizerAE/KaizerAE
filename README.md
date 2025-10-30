@@ -1,5 +1,8 @@
+![Banner](https://github.com/user-attachments/assets/0af76375-9c46-4a0d-bdfc-ea25bcb6e4a6)
+
 # Hi there 👋 I'm KaizerAE
 ## 🌐 Follow Me / تابعني
+
 <p align="center">
   <a href="https://x.com/KaizerQ5" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
@@ -24,6 +27,7 @@
 ---
 
 ### 📫 Connect With Me
+
 - 🐦 **X (Twitter):** [@KaizerQ5](https://x.com/KaizerQ5)
 - 📸 **Instagram:** [@CQIE_](https://www.instagram.com/CQIE_)
 - 🎵 **TikTok:** [@2syh](https://www.tiktok.com/@2syh)
