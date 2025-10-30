@@ -35,10 +35,13 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   
-  <br/>
+  <br />
   
   <a href="https://www.youtube.com/@KaizerAE" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.youtube.com/@KaizerAE1" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube%202-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube 2" />
   </a>
   <a href="https://www.twitch.tv/KaizerAE" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
@@ -63,7 +66,7 @@ name: KaizerAE
 location: 🇦🇪 United Arab Emirates
 role: Developer & Tech Enthusiast
 passion: Technology, Gaming, Content Creation
-languages: [Arabic, English]
+languages: [Arabic, English, Chinese (A1), Japanese (B2)]
 ```
 
 ### 🚀 What I Do:
@@ -74,6 +77,7 @@ languages: [Arabic, English]
 - 🎓 Continuous learner
 
 ### 🛠️ Tech Stack:
+
 ```javascript
 const skills = {
   languages: ['Python', 'JavaScript', 'HTML', 'CSS'],
